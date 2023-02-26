@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 8.063630428891129,
+      "title": "javascript",
+      "author": "allan"
+    },
+    {
+      "id": 4.815554527752299,
+      "title": "python",
+      "author": "kunal"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
